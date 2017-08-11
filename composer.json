@@ -1,0 +1,24 @@
+{
+    "name": "triadev/laravel-dev-config",
+    "description": "A service provider for laravel to managing the dev config.",
+    "keywords": ["Laravel", "Lumen", "Config"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Lorke",
+            "email": "christopher.lorke@gmx.de"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "illuminate/support": "^5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Triadev\\LaravelDevConfig\\": "src/"
+        }
+    }
+}
