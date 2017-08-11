@@ -62,5 +62,5 @@ The code for LaravelDevConfig is distributed under the terms of the MIT license 
 [ico-version-dev]: https://img.shields.io/packagist/vpre/triadev/laravel-dev-config.svg?style=flat-square
 [ico-downloads-monthly]: https://img.shields.io/packagist/dm/triadev/laravel-dev-config.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/triadev/laravel-dev-confi
-[link-downloads]: https://packagist.org/packages/triadev/laravel-dev-confi/stats
+[link-packagist]: https://packagist.org/packages/triadev/laravel-dev-config
+[link-downloads]: https://packagist.org/packages/triadev/laravel-dev-config/stats
