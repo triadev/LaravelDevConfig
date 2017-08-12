@@ -11,8 +11,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "illuminate/support": "^5.3",
-        "illuminate/foundation": "^5.3"
+        "illuminate/support": "^5.3"
     },
     "autoload": {
         "psr-4": {
